@@ -1,0 +1,510 @@
+{
+  "document_title": "Operator Companion Web App",
+  "content": [
+    {
+      "type": "section",
+      "title": "Overview",
+      "content": [
+        {
+          "type": "info",
+          "text": "The Operator Companion allows the operators, drivers, and users of your equipment to perform Inspections, using the Operator Companion web app. The web app is available to be used by all licensed Operators."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "title": "Home",
+      "content": [
+        {
+          "type": "info",
+          "text": "The home screen contains a list of the following:  Recently used assets. Recently completed inspections."
+        },
+        {
+          "type": "media",
+          "path": "https://github.com/SavvyGaikwad/img/blob/main/Operator%20Companion%20Web%20App/1.png",
+          "alt_text": "",
+          "format": "png",
+          "context": {
+            "section": "Home",
+            "file": "Operator Companion Web App.json",
+            "rich_description": "Section: Home. This image shows the final step or result of a process. displaying the main dashboard or home screen. Following the step: The home screen contains a list of the following:  Recently used assets. Recently completed inspecti.... Related UI elements: contains a list of the following:  Recently used assets",
+            "process_flow": "process_end",
+            "purpose": "main_interface",
+            "preceding_context": [
+              "The home screen contains a list of the following:  Recently used assets. Recently completed inspections."
+            ],
+            "following_context": [],
+            "ui_elements": [
+              "contains a list of the following:  Recently used assets"
+            ],
+            "related_actions": [],
+            "step_position": {
+              "has_preceding": true,
+              "has_following": false,
+              "preceding_count": 1,
+              "following_count": 0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "title": "Assets",
+      "content": [
+        {
+          "type": "step",
+          "text": "From the menu, tap Assets and the list of assets that relate to the inspections display."
+        },
+        {
+          "type": "media",
+          "path": "https://github.com/SavvyGaikwad/img/blob/main/Operator%20Companion%20Web%20App/2.png",
+          "alt_text": "",
+          "format": "png",
+          "context": {
+            "section": "Assets",
+            "file": "Operator Companion Web App.json",
+            "rich_description": "Section: Assets. This image shows the final step or result of a process. showing navigation menus or options. Following the step: From the menu, tap Assets and the list of assets that relate to the inspections display..... Related actions: tap, display",
+            "process_flow": "process_end",
+            "purpose": "navigation_interface",
+            "preceding_context": [
+              "From the menu, tap Assets and the list of assets that relate to the inspections display."
+            ],
+            "following_context": [],
+            "ui_elements": [],
+            "related_actions": [
+              "tap",
+              "display"
+            ],
+            "step_position": {
+              "has_preceding": true,
+              "has_following": false,
+              "preceding_count": 1,
+              "following_count": 0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "title": "Scan",
+      "content": [
+        {
+          "type": "step",
+          "text": "From the menu, tap Scan and the scanner is active and ready to scan an asset's bar code. This will display the asset and any available inspections."
+        },
+        {
+          "type": "media",
+          "path": "https://github.com/SavvyGaikwad/img/blob/main/Operator%20Companion%20Web%20App/3.png",
+          "alt_text": "",
+          "format": "png",
+          "context": {
+            "section": "Scan",
+            "file": "Operator Companion Web App.json",
+            "rich_description": "Section: Scan. This image shows the final step or result of a process. showing navigation menus or options. Following the step: From the menu, tap Scan and the scanner is active and ready to scan an asset's bar code. This will d.... Related actions: tap, scan, display",
+            "process_flow": "process_end",
+            "purpose": "navigation_interface",
+            "preceding_context": [
+              "From the menu, tap Scan and the scanner is active and ready to scan an asset's bar code. This will display the asset and any available inspections."
+            ],
+            "following_context": [],
+            "ui_elements": [],
+            "related_actions": [
+              "tap",
+              "scan",
+              "display"
+            ],
+            "step_position": {
+              "has_preceding": true,
+              "has_following": false,
+              "preceding_count": 1,
+              "following_count": 0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "title": "Inspections",
+      "content": [
+        {
+          "type": "step",
+          "text": "From the menu, tap Inspections and list displays the inspections that are in progress and in the other tab the completed inspections display."
+        },
+        {
+          "type": "info",
+          "text": "Inspections can be created in the Eptura Asset web application. Learn more in the Inspection Overview. Then the Operators of the equipment can then perform them through the Operator Companion web app. You will see the inspection has the same look and feel in both web apps. Required tasks will be highlighted with a special indicator."
+        },
+        {
+          "type": "media",
+          "path": "https://github.com/SavvyGaikwad/img/blob/main/Operator%20Companion%20Web%20App/4.png",
+          "alt_text": "",
+          "format": "png",
+          "context": {
+            "section": "Inspections",
+            "file": "Operator Companion Web App.json",
+            "rich_description": "Section: Inspections. This image shows the final step or result of a process. showing navigation menus or options. Following the step: Inspections can be created in the Eptura Asset web application. Learn more in the Inspection Overvie.... Related UI elements: the completed inspections display. Related actions: tap, display, perform",
+            "process_flow": "process_end",
+            "purpose": "navigation_interface",
+            "preceding_context": [
+              "From the menu, tap Inspections and list displays the inspections that are in progress and in the other tab the completed inspections display.",
+              "Inspections can be created in the Eptura Asset web application. Learn more in the Inspection Overview. Then the Operators of the equipment can then perform them through the Operator Companion web app. You will see the inspection has the same look and feel in both web apps. Required tasks will be highlighted with a special indicator."
+            ],
+            "following_context": [],
+            "ui_elements": [
+              "the completed inspections display"
+            ],
+            "related_actions": [
+              "tap",
+              "display",
+              "perform"
+            ],
+            "step_position": {
+              "has_preceding": true,
+              "has_following": false,
+              "preceding_count": 2,
+              "following_count": 0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "title": "Create an Inspection",
+      "content": [
+        {
+          "type": "info",
+          "text": "Operators of the equipment don't have to wait for Maintenance Managers to create an inspection. With the Operator Companion, Operators can search for the desired Asset and start the inspection..."
+        },
+        {
+          "type": "media",
+          "path": "https://github.com/SavvyGaikwad/img/blob/main/Operator%20Companion%20Web%20App/5.png",
+          "alt_text": "",
+          "format": "png",
+          "context": {
+            "section": "Create an Inspection",
+            "file": "Operator Companion Web App.json",
+            "rich_description": "Section: Create an Inspection. This image shows a step in the middle of a process. displaying the main dashboard or home screen. Following the step: Operators of the equipment don't have to wait for Maintenance Managers to create an inspection. With.... Related actions: create, start, scan, display",
+            "process_flow": "process_middle",
+            "purpose": "main_interface",
+            "preceding_context": [
+              "Operators of the equipment don't have to wait for Maintenance Managers to create an inspection. With the Operator Companion, Operators can search for the desired Asset and start the inspection..."
+            ],
+            "following_context": [
+              "...or they can use the Scan feature to scan the Asset barcode, which will bring up the desired asset and display the available inspections"
+            ],
+            "ui_elements": [],
+            "related_actions": [
+              "create",
+              "start",
+              "scan",
+              "display"
+            ],
+            "step_position": {
+              "has_preceding": true,
+              "has_following": true,
+              "preceding_count": 1,
+              "following_count": 1
+            }
+          }
+        },
+        {
+          "type": "info",
+          "text": "...or they can use the Scan feature to scan the Asset barcode, which will bring up the desired asset and display the available inspections"
+        },
+        {
+          "type": "media",
+          "path": "https://github.com/SavvyGaikwad/img/blob/main/Operator%20Companion%20Web%20App/6.png",
+          "alt_text": "",
+          "format": "png",
+          "context": {
+            "section": "Create an Inspection",
+            "file": "Operator Companion Web App.json",
+            "rich_description": "Section: Create an Inspection. This image shows the final step or result of a process. displaying the main dashboard or home screen. Following the step: ...or they can use the Scan feature to scan the Asset barcode, which will bring up the desired asset.... Related actions: create, start, scan, display",
+            "process_flow": "process_end",
+            "purpose": "main_interface",
+            "preceding_context": [
+              "Operators of the equipment don't have to wait for Maintenance Managers to create an inspection. With the Operator Companion, Operators can search for the desired Asset and start the inspection...",
+              "...or they can use the Scan feature to scan the Asset barcode, which will bring up the desired asset and display the available inspections"
+            ],
+            "following_context": [],
+            "ui_elements": [],
+            "related_actions": [
+              "create",
+              "start",
+              "scan",
+              "display"
+            ],
+            "step_position": {
+              "has_preceding": true,
+              "has_following": false,
+              "preceding_count": 2,
+              "following_count": 0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "title": "Inspection Status",
+      "content": [
+        {
+          "type": "info",
+          "text": "Inspections that are already underway, will have a flag that says IN PROGRESS •"
+        },
+        {
+          "type": "media",
+          "path": "https://github.com/SavvyGaikwad/img/blob/main/Operator%20Companion%20Web%20App/7.png",
+          "alt_text": "",
+          "format": "png",
+          "context": {
+            "section": "Inspection Status",
+            "file": "Operator Companion Web App.json",
+            "rich_description": "Section: Inspection Status. This image shows a decision point or user choice interface. showing an alert, notification, or confirmation dialog. Following the step: Inspections that are already underway, will have a flag that says IN PROGRESS •.... Related UI elements: asking them to decide between two options:  Back out of the inspection (Never Mind) and Restart the inspection (Start Over). Related actions: open, start",
+            "process_flow": "decision_point",
+            "purpose": "alert_dialog",
+            "preceding_context": [
+              "Inspections that are already underway, will have a flag that says IN PROGRESS •"
+            ],
+            "following_context": [
+              "If the Operator attempts to open an inspection already in progress, they will see an alert asking them to decide between two options:  Back out of the inspection (Never Mind) and Restart the inspection (Start Over)"
+            ],
+            "ui_elements": [
+              "asking them to decide between two options:  Back out of the inspection (Never Mind) and Restart the inspection (Start Over)"
+            ],
+            "related_actions": [
+              "open",
+              "start"
+            ],
+            "step_position": {
+              "has_preceding": true,
+              "has_following": true,
+              "preceding_count": 1,
+              "following_count": 1
+            }
+          }
+        },
+        {
+          "type": "info",
+          "text": "If the Operator attempts to open an inspection already in progress, they will see an alert asking them to decide between two options:  Back out of the inspection (Never Mind) and Restart the inspection (Start Over)"
+        },
+        {
+          "type": "media",
+          "path": "https://github.com/SavvyGaikwad/img/blob/main/Operator%20Companion%20Web%20App/8.png",
+          "alt_text": "",
+          "format": "png",
+          "context": {
+            "section": "Inspection Status",
+            "file": "Operator Companion Web App.json",
+            "rich_description": "Section: Inspection Status. This image shows the final step or result of a process. showing an alert, notification, or confirmation dialog. Following the step: If the Operator attempts to open an inspection already in progress, they will see an alert asking th.... Related UI elements: asking them to decide between two options:  Back out of the inspection (Never Mind) and Restart the inspection (Start Over). Related actions: open, start",
+            "process_flow": "process_end",
+            "purpose": "alert_dialog",
+            "preceding_context": [
+              "Inspections that are already underway, will have a flag that says IN PROGRESS •",
+              "If the Operator attempts to open an inspection already in progress, they will see an alert asking them to decide between two options:  Back out of the inspection (Never Mind) and Restart the inspection (Start Over)"
+            ],
+            "following_context": [],
+            "ui_elements": [
+              "asking them to decide between two options:  Back out of the inspection (Never Mind) and Restart the inspection (Start Over)"
+            ],
+            "related_actions": [
+              "open",
+              "start"
+            ],
+            "step_position": {
+              "has_preceding": true,
+              "has_following": false,
+              "preceding_count": 2,
+              "following_count": 0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "title": "Examples",
+      "content": [
+        {
+          "type": "info",
+          "text": "Drivers can perform state and federally required Vehicle Inspection Reports (DVIR), instantly reporting any issues that are discovered."
+        },
+        {
+          "type": "media",
+          "path": "https://github.com/SavvyGaikwad/img/blob/main/Operator%20Companion%20Web%20App/9.png",
+          "alt_text": "",
+          "format": "png",
+          "context": {
+            "section": "Examples",
+            "file": "Operator Companion Web App.json",
+            "rich_description": "Section: Examples. This image shows a step in the middle of a process. showing the result or outcome of an action. Following the step: Drivers can perform state and federally required Vehicle Inspection Reports (DVIR), instantly report.... Related actions: perform, show",
+            "process_flow": "process_middle",
+            "purpose": "result_display",
+            "preceding_context": [
+              "Drivers can perform state and federally required Vehicle Inspection Reports (DVIR), instantly reporting any issues that are discovered."
+            ],
+            "following_context": [
+              "Equipment operators can easily show they are in compliance with OSHA regulations, requiring them to conduct daily safety checks prior to operation."
+            ],
+            "ui_elements": [],
+            "related_actions": [
+              "perform",
+              "show"
+            ],
+            "step_position": {
+              "has_preceding": true,
+              "has_following": true,
+              "preceding_count": 1,
+              "following_count": 1
+            }
+          }
+        },
+        {
+          "type": "info",
+          "text": "Equipment operators can easily show they are in compliance with OSHA regulations, requiring them to conduct daily safety checks prior to operation."
+        },
+        {
+          "type": "media",
+          "path": "https://github.com/SavvyGaikwad/img/blob/main/Operator%20Companion%20Web%20App/10.png",
+          "alt_text": "",
+          "format": "png",
+          "context": {
+            "section": "Examples",
+            "file": "Operator Companion Web App.json",
+            "rich_description": "Section: Examples. This image shows a step in the middle of a process. showing the result or outcome of an action. Following the step: Equipment operators can easily show they are in compliance with OSHA regulations, requiring them to .... Related actions: perform, show, complete",
+            "process_flow": "process_middle",
+            "purpose": "result_display",
+            "preceding_context": [
+              "Drivers can perform state and federally required Vehicle Inspection Reports (DVIR), instantly reporting any issues that are discovered.",
+              "Equipment operators can easily show they are in compliance with OSHA regulations, requiring them to conduct daily safety checks prior to operation."
+            ],
+            "following_context": [
+              "Results of an Operator's inspection are instantly relayed to Eptura Asset web app.",
+              "Maintenance Managers can see in real-time, the current status of an ongoing inspection, and read the operator's findings even before the inspection is complete."
+            ],
+            "ui_elements": [],
+            "related_actions": [
+              "perform",
+              "show",
+              "complete"
+            ],
+            "step_position": {
+              "has_preceding": true,
+              "has_following": true,
+              "preceding_count": 2,
+              "following_count": 2
+            }
+          }
+        },
+        {
+          "type": "info",
+          "text": "Results of an Operator's inspection are instantly relayed to Eptura Asset web app."
+        },
+        {
+          "type": "info",
+          "text": "Maintenance Managers can see in real-time, the current status of an ongoing inspection, and read the operator's findings even before the inspection is complete."
+        },
+        {
+          "type": "media",
+          "path": "https://github.com/SavvyGaikwad/img/blob/main/Operator%20Companion%20Web%20App/11.png",
+          "alt_text": "",
+          "format": "png",
+          "context": {
+            "section": "Examples",
+            "file": "Operator Companion Web App.json",
+            "rich_description": "Section: Examples. This image shows the final step or result of a process. showing the result or outcome of an action. Following the step: Maintenance Managers can see in real-time, the current status of an ongoing inspection, and read the.... Related actions: complete",
+            "process_flow": "process_end",
+            "purpose": "result_display",
+            "preceding_context": [
+              "Results of an Operator's inspection are instantly relayed to Eptura Asset web app.",
+              "Maintenance Managers can see in real-time, the current status of an ongoing inspection, and read the operator's findings even before the inspection is complete."
+            ],
+            "following_context": [],
+            "ui_elements": [],
+            "related_actions": [
+              "complete"
+            ],
+            "step_position": {
+              "has_preceding": true,
+              "has_following": false,
+              "preceding_count": 2,
+              "following_count": 0
+            }
+          }
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "title": "Access the Operator Companion Web App",
+      "content": [
+        {
+          "type": "info",
+          "text": "You can access the Operator Companion web app on a tablet or smartphone."
+        },
+        {
+          "type": "step",
+          "text": "1. Open your device's browser and we recommend using either Safari, Firefox, or Chrome."
+        },
+        {
+          "type": "step",
+          "text": "2. In the browser, enter your company's URL in the format <mycompanysname>.managerpluscloud.com/oc/ For example: https://abcompany.managerpluscloud.com/oc/"
+        },
+        {
+          "type": "info",
+          "text": "The Operator Companion login screen displays."
+        },
+        {
+          "type": "media",
+          "path": "https://github.com/SavvyGaikwad/img/blob/main/Operator%20Companion%20Web%20App/12.png",
+          "alt_text": "",
+          "format": "png",
+          "context": {
+            "section": "Access the Operator Companion Web App",
+            "file": "Operator Companion Web App.json",
+            "rich_description": "Section: Access the Operator Companion Web App. This image shows a step in the middle of a process. showing a login or authentication interface. Following the step: The Operator Companion login screen displays..... Related UI elements: displays, and the password or pin field, and you will be logged into the Operator Companion. Related actions: open, enter, tap",
+            "process_flow": "process_middle",
+            "purpose": "login_screen",
+            "preceding_context": [
+              "1. Open your device's browser and we recommend using either Safari, Firefox, or Chrome.",
+              "2. In the browser, enter your company's URL in the format <mycompanysname>.managerpluscloud.com/oc/ For example: https://abcompany.managerpluscloud.com/oc/",
+              "The Operator Companion login screen displays."
+            ],
+            "following_context": [
+              "3. In the Username or email field and the password or pin field, enter your credentials.",
+              "4. Tap the Log In button and you will be logged into the Operator Companion."
+            ],
+            "ui_elements": [
+              "displays",
+              "and the password or pin field",
+              "and you will be logged into the Operator Companion"
+            ],
+            "related_actions": [
+              "open",
+              "enter",
+              "tap"
+            ],
+            "step_position": {
+              "has_preceding": true,
+              "has_following": true,
+              "preceding_count": 3,
+              "following_count": 2
+            }
+          }
+        },
+        {
+          "type": "step",
+          "text": "3. In the Username or email field and the password or pin field, enter your credentials."
+        },
+        {
+          "type": "step",
+          "text": "4. Tap the Log In button and you will be logged into the Operator Companion."
+        }
+      ]
+    }
+  ]
+}
