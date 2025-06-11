@@ -273,7 +273,7 @@ class ProfessionalChatbot:
         self.language_config = {
             'English': {
                 'title': 'Eptura Asset AI',
-                'subtitle': 'Eptura Asset AI<br>Smartest AI answering all your questions for managing your companys Assets',
+                'subtitle': 'Smartest AI answering all your questions for managing your companys Assets',
                 'input_placeholder': 'Ask me anything about your documents:',
                 'ask_button': 'Ask Question',
                 'new_chat': 'New Chat',
@@ -302,7 +302,7 @@ class ProfessionalChatbot:
             },
             'Japanese': {
                 'title': 'エプチュラ アセット AI',  # Fixed: Removed special characters that might cause encoding issues
-                'subtitle': 'エプチュラ アセット AI <br> 企業アセット管理のための最もスマートなAIアシスタント',  # Improved Japanese translation
+                'subtitle': '企業アセット管理のための最もスマートなAIアシスタント',  # Improved Japanese translation
                 'input_placeholder': 'ドキュメントについて何でもお聞きください：',
                 'ask_button': '質問する',
                 'new_chat': '新しいチャット',
